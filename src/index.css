@@ -3,6 +3,7 @@
 
 :root {
   --primary-purple: #5f35f5; /* Vibrant Purple */
+  --dark-blue: #11175d; /* Dark Blue */
   --black: #000000; /* Pure Black */
   --white: #ffffff; /* Pure White */
   --black-25: rgba(0, 0, 0, 0.25); /* Black 25% */
@@ -23,6 +24,7 @@
 }
 @theme {
   --color-primary-purple: var(--primary-purple);
+  --color-dark-blue: var(--dark-blue);
   --color-black: var(--black);
   --color-white: var(--white);
   --color-black-25: var(--black-25);
